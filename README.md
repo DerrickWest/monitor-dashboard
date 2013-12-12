@@ -7,7 +7,7 @@ This web application provides a UI for the [Node Monitor](http://npmjs.org/packa
 
 [![Build Status](https://secure.travis-ci.org/lorenwest/monitor-dashboard.png?branch=master)](https://travis-ci.org/lorenwest/monitor-dashboard)
 
-[![Dashboard](http://lorenwest.github.io/node-monitor/img/dashboard.png)](http://lorenwest.github.io/node-monitor)
+[![Dashboard](http://lorenwest.github.io/monitor-dashboard/img/dashboard.png)](http://lorenwest.github.io/node-monitor)
 
 Quick Start
 -----------
@@ -20,7 +20,7 @@ Quick Start
 Online Documentation
 --------------------
 
-* [Node Monitor](http://lorenwest.github.io/node-monitor) - Monitor & dashboard documentation
+* [Monitor dashboard](http://lorenwest.github.io/monitor-dashboard) - Monitor & dashboard documentation
 
 License
 -------
